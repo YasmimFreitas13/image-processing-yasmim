@@ -9,7 +9,7 @@ with open("requirements.txt") as f:
 setup(
     name="image-processing-yasmim",  # Nome do pacote alterado
     version="0.0.3",               # Versão aumentada
-    author="Karina",
+    author="Yasmim",
     description="Image Processing Package using skimage",
     long_description=page_description,
     long_description_content_type="text/markdown",
