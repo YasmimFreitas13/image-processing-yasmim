@@ -8,12 +8,12 @@ with open("requirements.txt") as f:
 
 setup(
     name="image-processing-yasmim",  # Nome do pacote alterado
-    version="0.0.2",               # Versão aumentada
+    version="0.0.3",               # Versão aumentada
     author="Karina",
     description="Image Processing Package using skimage",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/tiemi/image-processing-package",
+    url="https://github.com/Yasmim/image-processing-yasmim",
     packages=find_packages(),
     install_requires=requirements,
     python_requires=">=3.5",
